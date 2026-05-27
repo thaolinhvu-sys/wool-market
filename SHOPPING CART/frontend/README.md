@@ -14,7 +14,7 @@ Admin dashboard for managing products and viewing user carts
 The purpose of this project is to simulate a real-world online shopping system with secure authentication and full CRUD functionality.
 
 ## Workload Allocation
-This is an individual project.
+This is an individual project. 
 
 ## Technical stack
 - *Frontend*: React (Vite), JavaScript (ES6), CSS
